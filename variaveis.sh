@@ -1,6 +1,6 @@
 TOKEN=SEU_TOKEN
 CHATID=SEU_CHAT_ID
-USUARIOS="lista|de|usuarios|autorizados|a|dar|comandos"
+ADMINS=( lista de admins separada por espaço )
 INTERVALO="5"
 BTCMAX="11000"
 BTCMIN="9500"
