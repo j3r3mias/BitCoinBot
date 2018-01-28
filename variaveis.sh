@@ -14,6 +14,6 @@ COMANDOS="^/cotacoes$|\
 ^/intervalo [0-9]+(\.[0-9])?$|\
 ^/porcentagem [0-9]{1,2}(\.[0-9]{1,2})?$|\
 ^/coin( [a-zA-Z0-9.-]+){1,2}$|\
-^/adiciona [0-9a-zA-Z-]+ [0-9]+(\.[0-9]+)?$|\
+^/adiciona -?[0-9a-zA-Z-]+ [0-9]+(\.[0-9]+)?$|\
 ^/remove [0-9a-zA-Z-]+$|\
 ^/consulta$"
