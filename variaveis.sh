@@ -11,6 +11,7 @@ last="oe"
 foxbiturl="https://api.blinktrade.com/api/v1/BRL/ticker?crypto_currency=BTC"
 apiurl="https://api.telegram.org/bot$TOKEN"
 mbtc=https://www.mercadobitcoin.net/api
+coinmarketcap=https://api.coinmarketcap.com/v1/ticker
 COMANDOS="^/cotacoes$|\
 ^/[lb]tcm[ai][xn] [0-9]+$|\
 ^/help$|^/parametros$|\
