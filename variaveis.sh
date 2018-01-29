@@ -8,6 +8,9 @@ LTCMAX="150"
 LTCMIN="111"
 PORCENTAGEM="4"
 last="oe"
+foxbiturl="https://api.blinktrade.com/api/v1/BRL/ticker?crypto_currency=BTC"
+apiurl="https://api.telegram.org/bot$TOKEN"
+mbtc=https://www.mercadobitcoin.net/api
 COMANDOS="^/cotacoes$|\
 ^/[lb]tcm[ai][xn] [0-9]+$|\
 ^/help$|^/parametros$|\
